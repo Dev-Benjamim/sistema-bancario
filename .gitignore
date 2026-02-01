@@ -1,0 +1,39 @@
+# Build directories
+build/
+cmake-build-debug/
+cmake-build-release/
+
+# Executables
+sistema-bancario
+*.out
+*.exe
+*.app
+
+# CMake
+CMakeUserPresets.json
+CMakeFiles/
+*.cmake
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Object files
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Temporary files
+*.tmp
+*.bak
