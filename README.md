@@ -34,7 +34,7 @@ No diretório do repositório execute:
 ```bash
 mkdir build
 cd build
-cmake ..
+cmake -S .. -B .
 cmake --build .
 ```
 
